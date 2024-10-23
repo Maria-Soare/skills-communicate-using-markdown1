@@ -4,3 +4,6 @@
 ``` C++
 cout<< "Hello! Have a nice day!";
 ```
+- [X] first class
+- [X] second class
+- [ ] third class
